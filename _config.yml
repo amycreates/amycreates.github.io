@@ -63,7 +63,7 @@ twitter_username:   #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2020 My name"
+     "Copyright 2020 Amy Gordon"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
@@ -71,7 +71,7 @@ email_address: "amygordon925@gmail.com"
 facebook:
 flickr:
 google_plus:
-instagram:"amy_nicole22"
+instagram: "amy_nicole22"
 linkedin:  # Full URL
 pinterest:
 soundcloud:
