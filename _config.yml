@@ -36,7 +36,7 @@ defaults:
 baseurl: ''  #leave this alone
 url: "https://amycreates.github.io"   #change this to yours
 title: "amycreates" # site's title
-description: "A website with blog posts and recipes" # used by search engines
+description: "A collection of blog posts and recipes" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
@@ -67,7 +67,7 @@ footer_text:
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
-email_address: # Full email address, e.g. "sam@example.com"
+email_address: amygordon925@gmail.com
 facebook:
 flickr:
 google_plus:
