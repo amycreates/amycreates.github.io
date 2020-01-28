@@ -67,7 +67,7 @@ footer_text:
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
-email_address: amygordon925@gmail.com
+email_address: "amygordon925@gmail.com"
 facebook:
 flickr:
 google_plus:
