@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here is a sample blog post
+title: First blog post
 date: 2019-10-19
 published: true
 header_feature_image: _uploads/tomatoes.jpg
