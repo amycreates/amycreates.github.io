@@ -6,9 +6,8 @@ published: true
 header_feature_image: _uploads/eiffel tower.jpg
 caption: "Eiffel Tower"
 tags:
-  - Journalism
+  - Travel
   - Life
-  - Food
 ---
 
 A city as beautiful as Paris, is one that has been drawing tourists for years. From its incredible known monuments and tasty cuisine it is a must visit! However, visiting in peak times may prove more difficult getting into the popular attractions for example, the Eiffel Tower and the Louvre Museum.
