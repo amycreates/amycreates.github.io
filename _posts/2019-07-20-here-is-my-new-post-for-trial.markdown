@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First blog post"
+title: "Paris in the New Year"
 date: 2020-02-04
 published: true
 header_feature_image: _uploads/eiffel tower.jpg
