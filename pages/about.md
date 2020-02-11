@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Amy Gordon"
-subtitle: All about me and my life #optional sub title to the post
+subtitle:
 permalink: /about/
-header_feature_image: uploads/aboutmeheader.jpg
+header_feature_image: uploads/corkboard.jpg
 tags:
 published: true
 description:
