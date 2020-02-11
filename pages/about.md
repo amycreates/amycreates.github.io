@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: "Amy Gordon"
 subtitle: All about me and my life #optional sub title to the post
 permalink: /about/
-header_feature_image:  /uploads/log.jpg #replace this for yours
+header_feature_image: uploads/aboutmeheader.jpg
 tags:
 published: true
 description:
 ---
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+This site was created to provide insight into Mexican Street Food recipes and to give further knowledge into learning about places around the world from reading into the blog posts.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Having personally been to the locations of the blog posts, will allow you to feel as if you are having truthful advice from someone who has physically been there.
