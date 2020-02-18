@@ -36,7 +36,7 @@ defaults:
 baseurl: ''  #leave this alone
 url: "https://amycreates.github.io"   #change this to yours
 title: "amycreates" # site's title
-description: "A collection of blog posts and recipes" # used by search engines
+description: "A collection of travel blog posts and authentic recipes" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
@@ -57,7 +57,8 @@ recipecollection: Your recipe collection
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: /uploads/map.jpg
-recipe_bookcover: /uploads/bookcover.jpg
+recipe_bookcover: /uploads/mexicanrecipecover
+.jpg
 
 twitter_username:   #change to your own twitter account
 lang: en_gb
