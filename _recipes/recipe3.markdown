@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Macaroni Cheese Mexican Street-Style
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -11,43 +11,38 @@ tags:
   - Main
 ---
 
-# Recipe Title
+# Macaroni Cheese Mexican Street-Style
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This pasta recipe is very quick and easy to prepare, and it’s also a very popular recipe for kids! Mac and Cheese is not a traditional Mexican recipe, but it has somehow been adopted in many Mexican homes.
 
 <!--more-->
 
 ## Ingredients
 
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
-
+- 7 ounces elbow macaroni
+- 1/4 cup butter
+- 3 tablespoons all-purpose flour
+- 2 cups milk
+- 1 (8 ounce) package cream cheese
+- 4 slices canned jalapeno peppers, chopped
+- 2 teaspoons Dijon mustard
+- 1/2 teaspoon ground black pepper
+- salt to taste
+- 3 dashes hot sauce, or to taste
+- 2 cups shredded Cheddar cheese
+- 1 cup dry bread crumbs
+- 2 tablespoons butter
+- 2 tablespoons chopped fresh parsley
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Preheat oven to 400 degrees F (200 degrees C).
+2. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 to 10 minutes. Drain.
+3. Melt 1/4 cup butter in a saucepan over medium heat. Stir flour into melted butter and cook until smooth and bubbling, for about 1 minute. Mix milk, cream cheese, jalapeno peppers, Dijon mustard, black pepper, and salt into flour-butter mixture; cook, stirring occasionally, until sauce is thickened, about 5 minutes.
+4. Mix macaroni and Cheddar cheese into sauce; pour into a 2-quart casserole dish.
+5. Mix bread crumbs, 2 tablespoons butter, and parsley together in a bowl; spread over macaroni and cheese.
+6. Bake in the preheated oven until golden brown, 15 to 20 minutes.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**- Serves: 6
+- Preparation time: 20 minutes
+- Cook Time: 30 minutes**

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Chicken Enchiladas
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -10,7 +10,6 @@ tags:
   - Street Food
   - Enchiladas
 ---
-
 # Chicken Enchiladas
 
 This chicken enchiladas recipe is perfect for a spice lover. Having so many garnish topping variations, you can really make this recipe your own!
@@ -45,4 +44,8 @@ Filling
 8. Next add the stuffing, the chicken and place in the centre of the tortilla.
 9. Set aside until all the batch is used.
 10. Once you have finished rolling the enchiladas, you can add more sauce on top, then start topping with the garnishes.
-11. Serve with rice and beans on the side for a complete meal. 
+11. Serve with rice and beans on the side for a complete meal.
+
+**- Serves: 6
+- Preparation time: 20 minutes
+- Cook Time: 30 minutes**
