@@ -5,17 +5,17 @@ date: 2020-02-18 11:02
 published: true
 header_feature_image: _uploads/bangkok.jpg
 caption:
-tags: 
+tags:
    - Thailand
    - Bangkok
    - Phuket
    - Food
 ---
-# Thailand
+Out of all the places I have been to in my life, visiting Thailand was definitely the best. I must admit, walking to our hotel walking through the busy roads, I felt quite overwhelmed as it's so different from other places I have been to. Trying to get used to the roads and not getting run over was something I found the hardest considering there were no rules!
 
-Out of all the places I have been to in my life, visiting Thailand was definitely the best. I must admit, walking to our hotel walking through the busy roads, I felt quite overwhelmed as it's so different from other places I have been to. Trying to get used to the roads and not getting run over was something I found the hardest considering there were no rules! With majestic temples, stunning beaches and interesting modes of transport (especially the Tuk Tuks!) Thailand is a place that attracts mostly backpackers and budget travellers. Spending 10 days there myself, still wasn’t enough as there was still so much to see including the surrounding islands I didn’t get to visit.
+With majestic temples, stunning beaches and interesting modes of transport (especially the Tuk Tuks!) Thailand is a place that attracts mostly backpackers and budget travellers. Spending 10 days there myself, still wasn’t enough as there was still so much to see including the surrounding islands I didn’t get to visit.
 
-## Food
+**Food**
 
 Thailand is a perfect place to delve into the authentic Thai cuisine. With stalls and restaurants being the main attraction in Thailand, visiting them is a must to easily try everything! The best foods to try include Pad Thai, Kai Med Ma Muang (Chicken with Cashew Nuts), mango sticky rice, massaman curry and Pa Thong Ko (little donuts) -I also had lots of smoothies as it gets very humid during the day and night.
 
@@ -23,7 +23,7 @@ Thailand is a perfect place to delve into the authentic Thai cuisine. With stall
 
 Bangkok, Thailand's capital, is a place like no other. It is an exciting and busy city to visit that's full of culture and delicious foods! Being is such a clustered city, the smells of exhaust fumes and grilled meats do get quite hard to get used to.
 
-## Visiting the Temples
+**Visiting the Temples**
 
 Visiting the many temples across Thailand can be pretty impressive. With stunning architecture inside and out, it's a lot to take in. However, there are strict dress codes and rules in mostly all the temples in Thailand.
 
