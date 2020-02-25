@@ -8,7 +8,6 @@ caption:
 tags:   
 - Lanzarote
 - Travel
-   # use [tag1,tag2]
 ---
 Lanzarote is the most easterly of the Canary Islands and one of the smallest. Having year-round sun is more or less guaranteed in Lanzarote, or the Canaries as a whole to be honest, which makes it a perfect place to visit if you don’t need to go during the school summer holidays.
 
