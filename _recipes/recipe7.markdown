@@ -13,7 +13,7 @@ tags:
 
 # Quesadillas
 
-In its most basic form, a quesadilla is simply a grilled tortilla with melted cheese inside. It’s the Mexican grilled cheese, if you will, and you can add additional fillings if you’d like.
+In its most basic form, a quesadilla is simply a grilled tortilla with melted cheese inside. You can add additional fillings if you’d like.
 
 <!--more-->
 
