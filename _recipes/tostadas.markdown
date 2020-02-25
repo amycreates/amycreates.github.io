@@ -17,6 +17,8 @@ For a quick and easy Mexican fix. this super using flavourful corn tortillas, wh
 
 <!--more-->
 
+[![Chicken Tostadas](/_uploads/chickentostadas.jpg)](/_uploads/chickentostadas.jpg)
+
 ## Ingredients
 
 - Vegetable oil for frying

@@ -17,6 +17,8 @@ Making your own Mexican Gorditas at home is super easy! These little corn cakes 
 
 <!--more-->
 
+[![Mexican Gorditas](/_uploads/mexicangorditas.jpg)](/_uploads/mexicangorditas.jpg)
+
 ## Ingredients
 
 - 2 cups masa harina (nixtamalized maize flour)

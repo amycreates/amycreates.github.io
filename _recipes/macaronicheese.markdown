@@ -17,6 +17,8 @@ This pasta recipe is very quick and easy to prepare, and it’s also a very popu
 
 <!--more-->
 
+[![Macaroni Cheese](/_uploads/macandcheese.jpg)](/_uploads/macandcheese.jpg)
+
 ## Ingredients
 
 - 7 ounces elbow macaroni

@@ -17,6 +17,8 @@ This is a classic way to eat corn in Mexico, and is usually bought from street v
 
 <!--more-->
 
+[![Mexican Elotes](/_uploads/mexicanelotes.jpg)](/_uploads/mexicanelotes.jpg)
+
 ## Ingredients
 
 - butter 50g

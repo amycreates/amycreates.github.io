@@ -17,6 +17,8 @@ In its most basic form, a quesadilla is simply a grilled tortilla with melted ch
 
 <!--more-->
 
+[![Quesadillas](/_uploads/quesadillas.jpg)](/_uploads/quesadillas.jpg)
+
 ## Ingredients
 
 Per quesadilla
