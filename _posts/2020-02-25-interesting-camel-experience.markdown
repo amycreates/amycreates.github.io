@@ -3,7 +3,7 @@ layout: post
 title: Interesting Camel Experience
 date: 2020-02-25 10:18
 published: true
-header_feature_image:
+header_feature_image: _uploads/camel.jpg
 caption:
 tags:   
 - Lanzarote
