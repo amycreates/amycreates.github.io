@@ -6,9 +6,9 @@ excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Dutch
-  - Fish
-  - Main
+  - Mexican
+  - Street Food
+  - Macaroni Cheese
 ---
 
 # Macaroni Cheese Mexican Street-Style
@@ -43,6 +43,6 @@ This pasta recipe is very quick and easy to prepare, and it’s also a very popu
 5. Mix bread crumbs, 2 tablespoons butter, and parsley together in a bowl; spread over macaroni and cheese.
 6. Bake in the preheated oven until golden brown, 15 to 20 minutes.
 
-**- Serves: 6
-- Preparation time: 20 minutes
-- Cook Time: 30 minutes**
+**Serves: 6
+Preparation time: 20 minutes
+Cook Time: 30 minutes**

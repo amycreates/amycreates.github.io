@@ -61,6 +61,6 @@ Making your own Mexican Gorditas at home is super easy! These little corn cakes 
 16. Heat the sauce slightly.
 17. Stuff each tortilla with the garnish, sauce, salad, cilantro and chorizo.
 
-**- Serves: 12
-- Preparation time: 1 hour 30 minutes
-- Cook Time: 1 hour 15 minutes**
+**Serves: 12
+Preparation time: 1 hour 30 minutes
+Cook Time: 1 hour 15 minutes**

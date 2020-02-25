@@ -58,6 +58,6 @@ Tamales are a traditional dish in dozens of countries around Central and South A
 
 
 
-**- Serves: 1
-- Preparation time: 15 minutes
-- Cook Time: 1 hour 30 minutes**
+**Serves: 1
+Preparation time: 15 minutes
+Cook Time: 1 hour 30 minutes**

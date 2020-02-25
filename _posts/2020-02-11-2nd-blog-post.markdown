@@ -5,7 +5,11 @@ date: 2020-02-11 13:40
 published: true
 header_feature_image: uploads/IslaMujeresSign.jpg
 caption:
-tags:    # use [tag1,tag2]
+tags:
+- Mexico
+- Explore
+- Isla Mujeres
+    # use [tag1,tag2]
 ---
 
 Like most places in Mexico, you’d expect beauty. A hidden gem in Mexico is a small island named _Isla Mujeres_. It was first considered a secret to tourists but is now commonly visited yearly now.

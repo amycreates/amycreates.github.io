@@ -13,6 +13,7 @@ tags:
 
 # Chicken Tostadas
 
+For a quick and easy Mexican fix. this super using flavourful corn tortillas, which make a really nice change from flour tortillas
 
 <!--more-->
 
@@ -30,7 +31,7 @@ tags:
 - 85g Monterey Jack cheese, shredded
 - 1/2 head iceberg lettuce, cored and shredded
 - 1 avocado, thinly sliced or guacamole, recipe follows
-- 500ml salsa cruda, 
+- 500ml salsa cruda,
 - 125ml sour cream
 - 1 spring onion, thinly sliced
 - 12 fresh coriander leaves
@@ -66,5 +67,5 @@ tags:
 13. In a small bowl, mix together the tomatoes, onion, jalapeno, coriander, salt, and season with pepper to taste. Cover with cling film and set aside.
 
 **Serves: 6
-Preparation time: 20 minutes
-Cook Time: 30 minutes**
+Preparation time: 45 minutes
+Cook Time: 40 minutes**

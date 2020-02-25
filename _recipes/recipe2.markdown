@@ -46,6 +46,6 @@ Filling
 10. Once you have finished rolling the enchiladas, you can add more sauce on top, then start topping with the garnishes.
 11. Serve with rice and beans on the side for a complete meal.
 
-**- Serves: 6
-- Preparation time: 20 minutes
-- Cook Time: 30 minutes**
+**Serves: 4
+Preparation time: 15 minutes
+Cook Time: 15 minutes**

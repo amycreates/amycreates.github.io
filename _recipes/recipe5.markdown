@@ -36,6 +36,6 @@ This is a classic way to eat corn in Mexico, and is usually bought from street v
 
 
 
-**- Serves: 6
-- Preparation time: 3 hours
-- Cook Time: 10-15 minutes**
+**Serves: 6
+Preparation time: 3 hours
+Cook Time: 10-15 minutes**

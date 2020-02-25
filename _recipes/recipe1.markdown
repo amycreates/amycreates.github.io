@@ -42,5 +42,5 @@ Ready in just 20 minutes, these speedy steak tacos are great for alfresco family
 4. Serve steak in tortillas, topped with your choice of toppings varying from avocado or simply just cheese.
 
 
-**- Serves: 4
-- Preparation time: 1-4 hours for marinading**
+**Serves: 4
+Preparation time: 1-4 hours for marinading**
