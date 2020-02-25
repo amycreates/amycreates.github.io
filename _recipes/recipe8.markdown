@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Macaroni Cheese Mexican Street-Style
+title: Chicken Tostadas
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -8,10 +8,10 @@ order: 1
 tags:
   - Mexican
   - Street Food
-  -
+  - Tostadas
 ---
 
-#
+# Chicken Tostadas
 
 
 <!--more-->
@@ -30,7 +30,7 @@ tags:
 - 85g Monterey Jack cheese, shredded
 - 1/2 head iceberg lettuce, cored and shredded
 - 1 avocado, thinly sliced or guacamole, recipe follows
-- 500ml salsa cruda, recipe follows
+- 500ml salsa cruda, 
 - 125ml sour cream
 - 1 spring onion, thinly sliced
 - 12 fresh coriander leaves
