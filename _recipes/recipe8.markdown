@@ -6,43 +6,65 @@ excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Dutch
-  - Fish
-  - Main
+  - Mexican
+  - Street Food
+  -
 ---
 
-# Macaroni Cheese Mexican Street-Style
+#
 
-This pasta recipe is very quick and easy to prepare, and it’s also a very popular recipe for kids! Mac and Cheese is not a traditional Mexican recipe, but it has somehow been adopted in many Mexican homes.
 
 <!--more-->
 
 ## Ingredients
 
-- 7 ounces elbow macaroni
-- 1/4 cup butter
-- 3 tablespoons all-purpose flour
-- 2 cups milk
-- 1 (8 ounce) package cream cheese
-- 4 slices canned jalapeno peppers, chopped
-- 2 teaspoons Dijon mustard
-- 1/2 teaspoon ground black pepper
-- salt to taste
-- 3 dashes hot sauce, or to taste
-- 2 cups shredded Cheddar cheese
-- 1 cup dry bread crumbs
-- 2 tablespoons butter
-- 2 tablespoons chopped fresh parsley
+- Vegetable oil for frying
+- 6 white corn tortillas
+- Salt for sprinkling
+- 300g cooked shredded chicken
+- 85ml freshly squeezed lime juice
+- 65ml olive oil
+- 10g chopped fresh coriander
+- Salt and freshly ground black pepper
+- Refried beans, warm, recipe follows
+- 85g Monterey Jack cheese, shredded
+- 1/2 head iceberg lettuce, cored and shredded
+- 1 avocado, thinly sliced or guacamole, recipe follows
+- 500ml salsa cruda, recipe follows
+- 125ml sour cream
+- 1 spring onion, thinly sliced
+- 12 fresh coriander leaves
+- 2 tbsp olive oil
+- 1/4 medium Spanish onion, finely chopped
+- 1 tsp ground coriander seeds
+- 1 tsp ground cumin
+- 4 cloves garlic, crushed
+- 1 450g tin pinto beans (with liquid), mashed
+- 1/4 tsp salt
+- Freshly ground black pepper
+- 2 ripe tomatoes or 4 plum tomatoes, cored and roughly chopped
+- 1/4 medium onion, finely chopped (about 3 tbsp)
+- 1/4 jalapeno, seeded and minced
+- 2 tbsp chopped fresh coriander
+- 1 tsp salt
+- Freshly ground pepper
 
 ## Method
 
-1. Preheat oven to 400 degrees F (200 degrees C).
-2. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 to 10 minutes. Drain.
-3. Melt 1/4 cup butter in a saucepan over medium heat. Stir flour into melted butter and cook until smooth and bubbling, for about 1 minute. Mix milk, cream cheese, jalapeno peppers, Dijon mustard, black pepper, and salt into flour-butter mixture; cook, stirring occasionally, until sauce is thickened, about 5 minutes.
-4. Mix macaroni and Cheddar cheese into sauce; pour into a 2-quart casserole dish.
-5. Mix bread crumbs, 2 tablespoons butter, and parsley together in a bowl; spread over macaroni and cheese.
-6. Bake in the preheated oven until golden brown, 15 to 20 minutes.
+1. Pour the oil for frying into a large heavy-bottomed pan to a depth of about 5cm. Place over medium heat and heat to 190C/Gas Mark 5.
+2. Add the tortillas, one at a time, and fry until golden brown and crispy, about 1 1/2 minutes. Using tongs, transfer to a paper towel-lined pan and sprinkle with salt. Set aside.
+3. In a small bowl, mix together the chicken, lime juice, oil, coriander, and salt and season with pepper to taste. Cover with clingfilm and set aside.
+4. Preheat the grill. Spread the beans evenly over one side of each tortilla and sprinkle with some of the cheese.
+5. Transfer to a baking sheet and grill until the cheese is lightly browned and melted, about 30 seconds.
+6. Divide the tortillas among 6 plates.
+7. Evenly mound the chicken on each tortilla and top with the lettuce. Top each tostada with avocado, salsa, and a dollop of sour cream.
+8. Sprinkle with the spring onion and garnish the tostada with the coriander leaves. Serve immediately.
+9. Heat the oil in a large pan over medium-high heat.
+10. Add the onion, coriander, and cumin and cook, stirring, until lightly browned, about 2 minutes.
+11. Add the garlic and cook, until lightly browned, about 1 minute more. Add the beans and cook, stirring frequently, until thick and amber brown in color, about 4 minutes.
+12. Stir in the salt and season with pepper to taste.
+13. In a small bowl, mix together the tomatoes, onion, jalapeno, coriander, salt, and season with pepper to taste. Cover with cling film and set aside.
 
-**- Serves: 6
-- Preparation time: 20 minutes
-- Cook Time: 30 minutes**
+**Serves: 6
+Preparation time: 20 minutes
+Cook Time: 30 minutes**
