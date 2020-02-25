@@ -4,7 +4,7 @@ title: Steak Tacos
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order:
+order:1
 tags:
   - Mexican
   - Steak
@@ -13,9 +13,10 @@ tags:
 ---
 # Steak Tacos
 
-Ready in just 20 minutes, these speedy steak tacos are great for alfresco family dinners, served like on the streets of Mexico. 
+Ready in just 20 minutes, these speedy steak tacos are great for alfresco family dinners, served like on the streets of Mexico.
 
 <!--more-->
+[![Steak Taco](/_uploads/steaktaco.jpg)](/_uploads/steaktaco.jpg)
 
 ## Ingredients
 
@@ -41,5 +42,5 @@ Ready in just 20 minutes, these speedy steak tacos are great for alfresco family
 4. Serve steak in tortillas, topped with your choice of toppings varying from avocado or simply just cheese.
 
 
-- Serves: 4
-- Preparation time: 1-4 hours for marinading
+**- Serves: 4
+- Preparation time: 1-4 hours for marinading**
