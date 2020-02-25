@@ -1,48 +1,65 @@
 ---
 layout: recipe
-title: Macaroni Cheese Mexican Street-Style
+title: Beef Nachos
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Dutch
-  - Fish
-  - Main
+  - Mexican
+  - Street Food
+  - Nachos
 ---
 
-# Macaroni Cheese Mexican Street-Style
+# Beef Nachos
 
-This pasta recipe is very quick and easy to prepare, and it’s also a very popular recipe for kids! Mac and Cheese is not a traditional Mexican recipe, but it has somehow been adopted in many Mexican homes.
+
 
 <!--more-->
 
 ## Ingredients
 
-- 7 ounces elbow macaroni
-- 1/4 cup butter
-- 3 tablespoons all-purpose flour
-- 2 cups milk
-- 1 (8 ounce) package cream cheese
-- 4 slices canned jalapeno peppers, chopped
-- 2 teaspoons Dijon mustard
-- 1/2 teaspoon ground black pepper
-- salt to taste
-- 3 dashes hot sauce, or to taste
-- 2 cups shredded Cheddar cheese
-- 1 cup dry bread crumbs
-- 2 tablespoons butter
-- 2 tablespoons chopped fresh parsley
+- 2 tablespoons chili powder
+- 1 1/2 teaspoons kosher salt
+- 1 teaspoon granulated garlic
+- 1 teaspoon granulated onion
+- 1 teaspoon ground cumin
+- 1/2 teaspoon dried oregano
+- 1/4 teaspoon black pepper
+- Pinch of cayenne pepper (optional)
+- 1 teaspoon vegetable oil
+- 1 pound ground beef
+- 16 ounces (2 cups) refried beans, canned or homemade
+- 1/4 cup water
+- 4 ounces cheddar cheese, grated (about 2 cups), plus more for topping
+- 4 ounces Colby Jack cheese, grated (about 2 cups), plus more for topping
+- 1 cup pico de gallo, store-bought or homemade, plus more for topping
+- 1/4 cup chopped cilantro
+- 1 sliced jalapeño (pickled or fresh)
+- Guacamole
+- Salsa
+- Sour cream
+- Canned black olives
+- Sliced green onions
+- Shredded lettuce
+- Corn
+- Hot sauce
 
 ## Method
 
-1. Preheat oven to 400 degrees F (200 degrees C).
-2. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 to 10 minutes. Drain.
-3. Melt 1/4 cup butter in a saucepan over medium heat. Stir flour into melted butter and cook until smooth and bubbling, for about 1 minute. Mix milk, cream cheese, jalapeno peppers, Dijon mustard, black pepper, and salt into flour-butter mixture; cook, stirring occasionally, until sauce is thickened, about 5 minutes.
-4. Mix macaroni and Cheddar cheese into sauce; pour into a 2-quart casserole dish.
-5. Mix bread crumbs, 2 tablespoons butter, and parsley together in a bowl; spread over macaroni and cheese.
-6. Bake in the preheated oven until golden brown, 15 to 20 minutes.
+1. Preheat the oven to 350°F.
+2. Combine all of the spices (chili powder through cayenne) together in a small bowl.
+3. Heat the vegetable oil on medium high heat until it begins to shimmer.
+4. Add the ground beef to the pan and season it with all of the taco spice blend. As the meat cooks, use a spoon to break the meat up into crumbles.
+5. Cook for about 8 minutes until the meat has browned and drain the fat using a colander.
+6. Return the meat to the pan and add the refried beans and the water. Heat the mixture until the beans are smooth and warmed through. Reduce the heat to low and keep the beef-bean mixture warm while you prepare the chips.
+7. Simple Nachos recipe
+8. On a 13x18-inch oven-safe platter or sheet pan, arrange the tortilla chips in a single layer, overlapping them slightly. Toast the chips in the preheated oven for 5 minutes, or just until you begin to smell their aroma.
+9. Carefully remove the pan from the oven and top with one half of the shredded cheeses. Allow the heat from the chips to melt the cheese slightly before topping the chips with the beef and bean mixture.
+10. Sprinkle the remaining cheese over the beef and return the pan to the oven for minutes, or until the cheese has fully melted.
+11. Easy Nachos Recipe Loaded Nachos Recipe How to Make Nachos at Home
+12. Top the nachos with the pico de gallo, chopped cilantro, jalapeño slices, or any of your preferred toppings. Serve hot.
 
-**- Serves: 6
-- Preparation time: 20 minutes
-- Cook Time: 30 minutes**
+**Serves: 6
+Preparation time: 15 minutes
+Cook Time: 15 minutes**
