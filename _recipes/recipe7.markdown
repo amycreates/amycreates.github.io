@@ -1,48 +1,47 @@
 ---
 layout: recipe
-title: Macaroni Cheese Mexican Street-Style
+title: Quesadillas
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Dutch
-  - Fish
-  - Main
+  - Mexican
+  - Street Food
+  - Quesadillas
 ---
 
-# Macaroni Cheese Mexican Street-Style
+# Quesadillas
 
-This pasta recipe is very quick and easy to prepare, and it’s also a very popular recipe for kids! Mac and Cheese is not a traditional Mexican recipe, but it has somehow been adopted in many Mexican homes.
+In its most basic form, a quesadilla is simply a grilled tortilla with melted cheese inside. It’s the Mexican grilled cheese, if you will, and you can add additional fillings if you’d like.
 
 <!--more-->
 
 ## Ingredients
 
-- 7 ounces elbow macaroni
-- 1/4 cup butter
-- 3 tablespoons all-purpose flour
-- 2 cups milk
-- 1 (8 ounce) package cream cheese
-- 4 slices canned jalapeno peppers, chopped
-- 2 teaspoons Dijon mustard
-- 1/2 teaspoon ground black pepper
-- salt to taste
-- 3 dashes hot sauce, or to taste
-- 2 cups shredded Cheddar cheese
-- 1 cup dry bread crumbs
-- 2 tablespoons butter
-- 2 tablespoons chopped fresh parsley
+Per quesadilla
+
+- 1 whole-grain flour tortilla (about 8″ diameter)
+- ½ cup freshly grated cheddar cheese
+- ¼ cup cooked black beans or pinto beans, rinsed and drained
+- 1 tablespoon chopped red bell pepper or jarred roasted bell pepper or a few thinly sliced cherry tomatoes
+- 1 tablespoon chopped red onion or green onion
+- 1 tablespoon chopped pickled jalapeño (if you like heat)
+- 1 teaspoon avocado oil, melted butter or extra-virgin olive oil, for brushing
+- Any of the following, for serving: Salsa, pico de gallo, guacamole or strips of avocado, sour cream, hot sauce, chopped fresh cilantro
 
 ## Method
 
-1. Preheat oven to 400 degrees F (200 degrees C).
-2. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 to 10 minutes. Drain.
-3. Melt 1/4 cup butter in a saucepan over medium heat. Stir flour into melted butter and cook until smooth and bubbling, for about 1 minute. Mix milk, cream cheese, jalapeno peppers, Dijon mustard, black pepper, and salt into flour-butter mixture; cook, stirring occasionally, until sauce is thickened, about 5 minutes.
-4. Mix macaroni and Cheddar cheese into sauce; pour into a 2-quart casserole dish.
-5. Mix bread crumbs, 2 tablespoons butter, and parsley together in a bowl; spread over macaroni and cheese.
-6. Bake in the preheated oven until golden brown, 15 to 20 minutes.
+1. Heat a medium skillet over medium heat. Warm your tortilla for about 30 seconds, flipping halfway. Flip once more, then sprinkle one-half of the tortilla with about half of the cheese.
+2. Cover the cheese evenly with the remaining fillings: beans, bell pepper, onion and jalapeño (if using).
+3. Sprinkle the remaining cheese over the fillings, and fold over the empty side of the tortilla to enclose the fillings.
+4. Quickly brush the top of the quesadilla with a light coating of oil, then carefully flip it with a spatula.
+5. Let the quesadilla cook until golden and crispy on the bottom, about 1 to 2 minutes, reducing the heat if necessary to prevent burning the tortilla.
+6. Brush the top with a light coating of oil, then flip it and cook until the second side is golden and crispy.
+7. Immediately remove the skillet from the heat and transfer the quesadilla to a cutting board.
+8. Let it cool for a minute to give the cheese time to set, then use a chef’s knife to slice it into 3 pieces.
+9. Serve promptly, with any sauces or garnishes that you’d like.
 
-**- Serves: 6
-- Preparation time: 20 minutes
-- Cook Time: 30 minutes**
+**Serves: 6
+Preparation time: 20 minutes
+Cook Time: 30 minutes**
