@@ -1,48 +1,52 @@
 ---
 layout: recipe
-title: Macaroni Cheese Mexican Street-Style
+title: Pork Menudo
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
 order: 1
 tags:
-  - Dutch
-  - Fish
-  - Main
+  - Mexican
+  - Street Food
+  - Pork Menudo
 ---
 
-# Macaroni Cheese Mexican Street-Style
+# Pork Menudo
 
-This pasta recipe is very quick and easy to prepare, and it’s also a very popular recipe for kids! Mac and Cheese is not a traditional Mexican recipe, but it has somehow been adopted in many Mexican homes.
+Pork Menudo is a clear favourite for comfort foods in Mexico. It's unique and flavorful texture and aroma may seem too difficult or exotic to swallow. That is why it is essential that the Mexican Pork Menudo recipe is well-cooked and exquisitely prepared, with an eye towards presentation.
 
 <!--more-->
 
 ## Ingredients
 
-- 7 ounces elbow macaroni
-- 1/4 cup butter
-- 3 tablespoons all-purpose flour
-- 2 cups milk
-- 1 (8 ounce) package cream cheese
-- 4 slices canned jalapeno peppers, chopped
-- 2 teaspoons Dijon mustard
-- 1/2 teaspoon ground black pepper
-- salt to taste
-- 3 dashes hot sauce, or to taste
-- 2 cups shredded Cheddar cheese
-- 1 cup dry bread crumbs
-- 2 tablespoons butter
-- 2 tablespoons chopped fresh parsley
+- 2 lbs. pork
+- 1/4 lb. pig liver
+- 1 cup potatoes diced
+- 1 piece carrot cubed
+- 1/2 cup soy sauce
+- 1/2 piece lemon
+- 1 piece onion chopped
+- 3 cloves garlic minced
+- 1 teaspoon sugar
+- 3/4 cup tomato sauce
+- 1 cup water
+- 4 pieces hotdogs sliced diagonally
+- 2 tablespoons cooking oil
+- 2 to 3 pieces dried bay leaves
+- Salt and pepper to taste
 
 ## Method
 
-1. Preheat oven to 400 degrees F (200 degrees C).
-2. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 to 10 minutes. Drain.
-3. Melt 1/4 cup butter in a saucepan over medium heat. Stir flour into melted butter and cook until smooth and bubbling, for about 1 minute. Mix milk, cream cheese, jalapeno peppers, Dijon mustard, black pepper, and salt into flour-butter mixture; cook, stirring occasionally, until sauce is thickened, about 5 minutes.
-4. Mix macaroni and Cheddar cheese into sauce; pour into a 2-quart casserole dish.
-5. Mix bread crumbs, 2 tablespoons butter, and parsley together in a bowl; spread over macaroni and cheese.
-6. Bake in the preheated oven until golden brown, 15 to 20 minutes.
+1. Combine pork, soy sauce, and lemon in a bowl. Marinate for at least 1 hour.
+2. Heat oil in a pan
+3. Saute garlic and onion.
+4. Add the marinated pork. Cook for 5 to 7 minutes.
+5. Pour in tomato sauce and water and then add the bay leaves.
+6. Let boil and simmer for 30 minutes to an hour depending on the toughness of the pork. **Note:** Add water as necessary.
+7. Add-in the liver and hot dogs.Cook for 5 minutes.
+8. Put-in potatoes, carrots, sugar, salt, and pepper. Stir and cook for 8 to 12 minutes.
+9. Share and enjoy!
 
-**- Serves: 6
-- Preparation time: 20 minutes
-- Cook Time: 30 minutes**
+**Serves: 6
+Preparation time: 20 minutes
+Cook Time: 30 minutes**
