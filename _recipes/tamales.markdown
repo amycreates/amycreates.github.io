@@ -17,6 +17,8 @@ Tamales are a traditional dish in dozens of countries around Central and South A
 
 <!--more-->
 
+[![Tamales](/_uploads/tamales.jpg)](/_uploads/tamales.jpg)
+
 ## Ingredients
 
 - Masa

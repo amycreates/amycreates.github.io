@@ -16,6 +16,8 @@ This chicken enchiladas recipe is perfect for a spice lover. Having so many garn
 
 <!--more-->
 
+[![Chicken Enchiladas](/_uploads/chickenenchiladas.jpg)](/_uploads/chickenenchiladas.jpg)
+
 ## Ingredients
 
 For enchilada sauce

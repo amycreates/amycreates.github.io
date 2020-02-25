@@ -17,6 +17,8 @@ Pork Menudo is a clear favourite for comfort foods in Mexico. It's unique and fl
 
 <!--more-->
 
+[![Pork Menudo](/_uploads/porkmenudo.jpg)](/_uploads/porkmenudo.jpg)
+
 ## Ingredients
 
 - 2 lbs. pork
