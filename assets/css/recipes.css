@@ -135,3 +135,14 @@ nav ul
   margin-top: 10px;
   margin-bottom: 100px;
 }
+
+@media screen (max-width: 720px) {
+
+  img {
+    float: none;
+    width:100%;
+  }
+
+
+
+}
