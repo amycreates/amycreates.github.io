@@ -100,7 +100,8 @@ hr {
 a {
     color: black;
     text-decoration:none;
-}
+    font-family: 'Bree Serif', serif;
+    }
 
 /* for a menu for all recipes */
 ul.recipes {
