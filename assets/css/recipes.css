@@ -124,6 +124,15 @@ ul.recipes a {
 /* color: #ea5924; */
 }
 
+.recipe .content {
+
+width: 60%;
+margin-right: auto;
+margin-left: auto;
+padding: 8px 20px;
+
+}
+
 nav ul
 {
 	font-family: "bree-serif",lato, serif;
@@ -145,7 +154,6 @@ nav ul
   img {
     float: none;
     width:100%;
-    border:1px solid red;
   }
 
 
