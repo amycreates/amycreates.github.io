@@ -109,9 +109,9 @@ a {
 ul.recipes {
   border: 1px solid gray;
   width: 12%;
-  float:right;
+  /* float:right; */
   font-size: 60%;
-  position: static;
+  position: fixed;
   top:10px;
   right:8px;
   padding: 6px;
@@ -137,6 +137,10 @@ nav ul
 }
 
 @media screen and (max-width: 820px) {
+
+  ul.recipes {
+    display:none;
+  }
 
   img {
     float: none;
