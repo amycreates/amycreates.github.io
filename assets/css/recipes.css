@@ -4,6 +4,7 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     background: #fff;
+
 }
 
 .post-content h1, .excerpt h1 {
@@ -11,13 +12,13 @@ html {
 }
 
 img {
-  float:right;
-  max-width: 50%;
+  float: right;
 }
 
 h1.title {
   font-size:2em;
-  color:red;
+  color:#ea5924;
+  font-family: 'Bree Serif', serif;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
@@ -26,19 +27,32 @@ main, menu, nav, section, summary {
 }
 
 body {
-    font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
+    font-family: serif;
+    /* "Lucida bright", "Lucida Fax", "Palatino Linotype"; */ */
     margin: 30px;
     font-size: 1.25em;
 }
 
 h1.site-title {
 font-size: 2.5em;
+font-family: 'Bree Serif', serif;
 }
+
+h2{
+
+ font-family: 'Bree Serif', serif;
+}
+
+
 
 img.cover {
 float:right;
-width:30%;
-margin:12px;
+width:20%;
+margin:20px;
+position: absolute;
+left: 0;
+top:100px;
+padding-left: 50px 40px;
 }
 
 
@@ -46,6 +60,20 @@ blockquote {
 
 }
 
+
+header.site-header{
+width:100%;
+/*text-align:left;
+position: fixed;
+font-family: "bree-serif", serif;
+background:
+top:0;
+bottom:0;
+height:50%; */
+
+
+
+}
 
 table {
 
@@ -70,17 +98,37 @@ hr {
 }
 
 a {
-    color: #337ab7;
-    text-decoration: none
+    color: black;
+    text-decoration:none;
 }
 
 /* for a menu for all recipes */
 ul.recipes {
   border: 1px solid gray;
-  width: 15%;
+  width: 12%;
   float:right;
   font-size: 60%;
-  position: absolute;
-  top:40px;
-  right:20px;
+  position: fixed;
+  top:10px;
+  right:8px;
+  padding: 6px;
+  background:white;
+
+}
+
+ul.recipes a {
+
+color: ea5924;
+}
+
+nav ul
+{
+	font-family: "bree-serif",lato, serif;
+	background: white;
+	list-style: none;
+	text-align: left;
+  margin-left: 10px;
+	margin-right:50px;
+  margin-top: 30px;
+  margin-bottom: 100px;
 }
