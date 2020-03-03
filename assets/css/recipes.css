@@ -13,7 +13,7 @@ html {
 
 img {
   float: right;
-  width:50%;
+  width:25%;
 }
 
 h1.title {
@@ -140,7 +140,7 @@ nav ul
 
   img {
     float: none;
-    width:100%
+    width:100%;
     border:1px solid red;
   }
 
