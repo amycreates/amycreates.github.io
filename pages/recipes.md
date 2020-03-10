@@ -8,4 +8,4 @@ published: true
 hide: false
 ---
 
-Here is an introduction to my recipe site
+Recreate your best Mexican street food favourites with these recipes, bursting with flavour and colour. You will explore the authentic flavours of food served on the streets of Mexico in the comfort of your own home. Varying from tacos to side dishes like Mexican Elotes, it will suit every occasion. With stunning photographs and step by step guides it is easy to follow along! 
