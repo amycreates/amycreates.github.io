@@ -3,7 +3,7 @@ layout: post
 title: The Giant Pandas of Edinburgh
 date: 2020-03-19 18:07
 published: true
-header_feature_image: _uploads/panda.jpg
+header_feature_image: _uploads/pandas.jpg
 caption:
 tags:
    - Travel
