@@ -3,7 +3,7 @@ layout: post
 title: Toboggan Rides in Madeira
 date: 2020-03-23 17:54
 published: true
-header_feature_image: _uploads/doorart.jpg
+header_feature_image: _uploads/toboggan.jpg
 caption:
 tags:
 - Travel
@@ -22,3 +22,5 @@ Accessing the toboggan by cable car is considered a fun way to get to the top of
 ## Funchal
 
 Funchal is Madeira's capital city. It is full of narrow cobbled streets lined by aged buildings full of history, restaurants, cafes and shops. Not only are there the typical things to do in the town, there is also an art gallery for you to admire the street art. The area where the art is displayed is called Rua da Santa Maria and showcases over 200 art pieces which mainly consist of amazing painted doors. The idea to paint on doors was to allow people to walk by and experience something deeper. This area of Madeira has had many floods and in order to give it some colour and life people decided to paint the door with bright colours and illustrations.
+
+[![An Example of Street Art on the Doors](/_uploads/doorart.jpg)](/_uploads/doorart.jpg)
