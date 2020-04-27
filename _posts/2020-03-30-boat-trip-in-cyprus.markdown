@@ -7,12 +7,13 @@ header_feature_image: _uploads/cyprus.jpg
 caption:
 tags:
 - Travel
-- Cyprus 
+- Cyprus
 ---
 
-Cyprus is the third largest Mediteranean island, located south of Turkey. Its cuisines are influenced by the Middle East, commonly using herbs, spices and olive oil as their main components to their dishes. Having travelled there back in 2014 myself, I have a few good memories of the place but I would definitely like to go back to explore more of Paphos in future.
+Cyprus is the third largest Mediterranean island, located south of Turkey. Its cuisines are influenced by the Middle East, commonly using herbs, spices and olive oil as their main components to their dishes. Having travelled there back in 2014 myself, I have a few good memories of the place but I would definitely like to go back to explore more of Paphos in future.
 
 ## Paphos
+
 With Paphos being the main area to go when visiting Cyprus, it brings many excursions and exciting things to see with it.  Aphrodite’s Rock is somewhere I wish I had seen. Some people may just think of it simple as a 'rock' but it is one of the most famous mythological spots in the world. There is apparently a myth that if you swim around the rock 3 times around the rocks it brings beauty and youth to you, however it is advised not to do this due to the rocky seas.
 
 Secondly, another place to see during your visit may be to see a private/blue lagoon. It is warmer than the rest of the area and has crystal blue waters in the bay. You can simply swim in the waters but you can also go snorkelling to see plenty of fish and rocks below.
