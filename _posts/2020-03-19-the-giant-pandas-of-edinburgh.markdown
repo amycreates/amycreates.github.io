@@ -9,7 +9,7 @@ tags:
    - Travel
    - Edinburgh
 ---
-Edinburgh is Scotland’s capital city, renowned for its heritage, culture and festivals. Taking around an hour or so to get there by plane from London, it was an easy escape from my normal Oxford life and a nice start to January 2019. Although it felt quite similar to Oxford with its rich culture and old buildings, you still feel like you've travelled somewhere mainly due to the change in accent (which at times I struggled to understand!). Travelling around the city was easy with its accessible tram lines throughout with cheap prices and easy to use.
+Edinburgh is Scotland’s capital city, renowned for its heritage, culture and festivals. It takes around an hour or so to get there by plane from London. It was an easy escape from my normal Oxford life and a nice start to January 2019. Although it felt quite similar to Oxford with its rich culture and old buildings, you still feel like you've travelled somewhere mainly due to the change in accent (which at times I struggled to understand!). Travelling around the city was easy with its accessible tram lines throughout with cheap prices and easy to use.
 
 [![View of Edinburgh](/_uploads/edinburgh.jpg)](/_uploads/edinburgh.jpg)
 
