@@ -18,6 +18,8 @@ Away from the quiet canals, you have the more populated areas of Saint Mark's Sq
 
 Rialto Bridge is considered the true heart of Venice. The current structure was built in just three years, between 1588 and 1591, as a permanent replacement for the boat bridge. The bridge itself has many walkways to get onto it, including the two main sides from the left and right but also a walkway that leads between a row of small shops. The bridge isn’t hard to miss as it is along the main water bus routes and has many signs indicating that it is nearby. The bridge had some lovely views of the canals both ways, cafes, bars and other people renting gondolas which is fun to see!
 
+[![Rialto Bridge](/_uploads/rialtobridge.jpg)](/_uploads/rialtobridge.jpg)
+
 ## Murano Island
 
 Most visitors stay in the main areas of Venice but always miss out on the hidden treasures of surrounding islands including Murano and Burano. Both islands take between 40-1hr to get to by water bus for only a small charge. Murano specialises in making hand-made glass sculptures ranging from animals to wine glasses. If you are not interested in buying one of these, it is still nice to visit the shops to see how each creator makes them differently, which makes them each unique.
@@ -31,7 +33,6 @@ Most visitors stay in the main areas of Venice but always miss out on the hidden
 - Visit the clock tower
 
 ## Burano Island
-
 
 Burano island is known as ‘the colourful island of lace’. The lacemaking varies from clothes to even  bookmarks, which make special delicate gifts. The island is also known for its fish dishes, which are commonly served in the surrounding restaurants. If your time is short like mine was, simply walk around the island taking in the big range of colour that it has to offer!
 
